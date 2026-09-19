@@ -1,10 +1,13 @@
 Ligando Lâmpada com JavaScript 💡
+
 Este é um projeto simples e prático desenvolvido para exercitar a manipulação do DOM (Document Object Model) em HTML através de eventos de clique usando JavaScript inline.
 
 🎯 Objetivo
+
 O objetivo principal deste projeto é demonstrar como o JavaScript pode alterar dinamicamente os atributos de elementos HTML na página — neste caso, alternando o atributo src da tag <img> para simular uma lâmpada acendendo e apagando.
 
 🚀 Tecnologias Utilizadas
+
 HTML5: Estruturação da página e dos botões.
 
 JavaScript: Lógica de manipulação do DOM através do atributo onclick.
